@@ -184,6 +184,7 @@ nav{
 }
 .about-section .about-icon a{
     text-decoration: none;
+    color: black;
 }
 .about-section .about-icon a:active{
     color: var(--secondary-color);
