@@ -175,6 +175,7 @@ nav{
     font-weight: 500;
     color: var(--primary-color);
     margin: 80px 120px 50px 150px;
+    text-align: center;
 }
 .about-section .about-icon{
     text-align: center;
